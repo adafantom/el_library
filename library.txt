@@ -1,0 +1,4 @@
+Shelf_1 : {'name': 'Мастер и Маргарита', 'authors': 'Булгаков'} 
+Shelf_1 : {'name': 'Отцы и дети', 'authors': 'Тургенев'} 
+Shelf_2 : {'name': 'Зов Ктулху', 'authors': 'Лавкрафт'} 
+Shelf_2 : {'name': 'Стихи', 'authors': 'Барто'} 
